@@ -25,3 +25,8 @@ This script does a similar thing but for all .wav files located in a directory. 
 
 You can simply choose a folder (this wil work even if there are folders within the folder). It is also possible to bulk label the data within this folder by filling out the feild near the bottom of the page.
 
+## Uploading to the Arduino Nano BLE Sense (or any other supported Arduino boards)
+
+Install the .zip Library file. Sketch -> Include Library -> Add .zip Library
+
+Download the Ardunio .ino sketch and run.
